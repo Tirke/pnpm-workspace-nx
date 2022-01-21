@@ -1,0 +1,9 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.43.0"
+  }
+}
